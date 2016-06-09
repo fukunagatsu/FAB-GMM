@@ -36,4 +36,4 @@ Blank line is inserted between elements (vector of mean value and covariance mat
 ## Reference
 Ryohei Fujimaki, and Satoshi Morinaga. "Factorized asymptotic bayesian inference for mixture modeling." International Conference on Artificial Intelligence and Statistics. 2012.
 
-Tsukasa Fukunaga, and Wataru Iwasaki. "Importance of considering simple factors in *C. elegans*  behavioral analysis."
+Tsukasa Fukunaga, and Wataru Iwasaki. "Importance of considering simple factors in *C. elegans*  behavioral analysis." under submission.
