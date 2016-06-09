@@ -34,4 +34,6 @@ After first line, the vector of mean value and covariance matrix of each compone
 Blank line is inserted between elements (vector of mean value and covariance matrix) of each component.
 
 ## Reference
-Fujimaki, Ryohei, and Satoshi Morinaga. "Factorized asymptotic bayesian inference for mixture modeling." International Conference on Artificial Intelligence and Statistics. 2012.
+Ryohei Fujimaki, and Satoshi Morinaga. "Factorized asymptotic bayesian inference for mixture modeling." International Conference on Artificial Intelligence and Statistics. 2012.
+
+Tsukasa Fukunaga, and Wataru Iwasaki. "Importance of considering simple factors in *C.~elegans*  behavioral analysis."
