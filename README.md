@@ -21,20 +21,12 @@ After first line, each line describes each data.
 
 Example of Input_file  
 6 4  
-0.1 0.1 0.1 0.1　　
-
-0.2 0.1 0.3 0.3
-
--0.1 0.2 0.1 -0.1
-
-0.1 -0.3 0.2 0.1
-
-0.1 0.1 -0.1 0.2
-
--0.1 0.3 0.1 0.3
-
-
-
+0.1 0.1 0.1 0.1  
+0.2 0.1 0.3 0.3  
+-0.1 0.2 0.1 -0.1  
+0.1 -0.3 0.2 0.1  
+0.1 0.1 -0.1 0.2  
+-0.1 0.3 0.1 0.3  
 
 ## Reference
 Fujimaki, Ryohei, and Satoshi Morinaga. "Factorized asymptotic bayesian inference for mixture modeling." International Conference on Artificial Intelligence and Statistics. 2012.
