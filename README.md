@@ -19,7 +19,7 @@ You have to rewrite the logation of eigen3.2.5 in makefile accordingly.
 The first line describes the number of data and dimension.
 After first line, each line describes each data.
 
-Example of Input_file  
+Example:
 6 4  
 0.1 0.1 0.1 0.1  
 0.2 0.1 0.3 0.3  
@@ -27,6 +27,11 @@ Example of Input_file
 0.1 -0.3 0.2 0.1  
 0.1 0.1 -0.1 0.2  
 -0.1 0.3 0.1 0.3  
+
+##Format of output parameter file
+The first line describes the mixing ratio of each component.
+After first line, the vector of mean value and covariance matrix of each component was described.
+Blank line is inserted between elements (vector of mean value and covariance matrix) of each component.
 
 ## Reference
 Fujimaki, Ryohei, and Satoshi Morinaga. "Factorized asymptotic bayesian inference for mixture modeling." International Conference on Artificial Intelligence and Statistics. 2012.
