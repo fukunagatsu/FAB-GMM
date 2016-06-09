@@ -5,5 +5,7 @@ The FAB algorithm is similar to the conventional expecation-maximization algorit
 ## Requirements
 * Eigen3.2.5
 
+You have to rewrite the logation of eigen3.2.5 in makefile accordingly.
+
 ## Reference
 Fujimaki, Ryohei, and Satoshi Morinaga. "Factorized asymptotic bayesian inference for mixture modeling." International Conference on Artificial Intelligence and Statistics. 2012.
