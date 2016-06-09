@@ -19,8 +19,7 @@ You have to rewrite the logation of eigen3.2.5 in makefile accordingly.
 The first line describes the number of data and dimension.
 After first line, each line describes each data.
 
-Example of Input_file;
-
+Example of Input_file;\n
 6 4
 
 0.1 0.1 0.1 0.1
