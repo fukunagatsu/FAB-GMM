@@ -5,15 +5,15 @@ The FAB algorithm is similar to the conventional expecation-maximization algorit
 ## Requirements
 * Eigen3.2.5
 
-You have to rewrite the logation of eigen3.2.5 in makefile accordingly.
+You have to rewrite the location of eigen3.2.5 in makefile accordingly.
 
 ##Usage
     ./FAB-GMM <epsilon> <input_file> <output_parameter_file> <output_responsibility_file>
 
-<epsilon>: The minimum value of mixing ratio of a component. If mixing ratio of component is smaller than <epsilon> during calculation, FAB algorithm shirnks the component.
+<epsilon>: The minimum value of mixing ratio of a component. If mixing ratio of a component is smaller than <epsilon> during calculation, FAB algorithm shirnks the component.
 <input_file>      : Name of input file.
-<output_parameter_file>  : Name of output file in which estimated parameter was written.
-<output_responsibility_file>  : Name of output file in which estimated responsibility was written.
+<output_parameter_file>  : Name of output file in which estimated parameter is written.
+<output_responsibility_file>  : Name of output file in which estimated responsibility is written.
 
 ##Format of input file
 The first line describes the number of data and dimension.
@@ -30,7 +30,7 @@ Example:
 
 ##Format of output parameter file
 The first line describes the mixing ratio of each component.
-After first line, the vector of mean value and covariance matrix of each component was described.
+After first line, the vector of mean value and covariance matrix of each component are described.
 Blank line is inserted between elements (vector of mean value and covariance matrix) of each component.
 
 ## Reference
