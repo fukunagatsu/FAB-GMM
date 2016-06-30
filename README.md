@@ -10,10 +10,10 @@ You have to rewrite the location of eigen3.2.5 in makefile accordingly.
 ##Usage
     ./FAB-GMM <epsilon> <input_file> <output_parameter_file> <output_responsibility_file>
 
-<epsilon>: The minimum value of mixing ratio of a component. If mixing ratio of a component is smaller than <epsilon> during calculation, FAB algorithm shirnks the component.
-<input_file>      : Name of input file.
-<output_parameter_file>  : Name of output file in which estimated parameter is written.
-<output_responsibility_file>  : Name of output file in which estimated responsibility is written.
+epsilon: The minimum value of mixing ratio of a component. If mixing ratio of a component is smaller than <epsilon> during calculation, FAB algorithm shirnks the component.  
+input_file      : Name of input file.  
+output_parameter_file  : Name of output file in which estimated parameter is written.  
+output_responsibility_file  : Name of output file in which estimated responsibility is written.  
 
 ##Format of input file
 The first line describes the number of data and dimension.
