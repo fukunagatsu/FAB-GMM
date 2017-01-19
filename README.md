@@ -37,4 +37,4 @@ Blank line is inserted between elements (vector of mean value and covariance mat
 ## Reference
 Ryohei Fujimaki, and Satoshi Morinaga. "Factorized asymptotic bayesian inference for mixture modeling." International Conference on Artificial Intelligence and Statistics. 2012.
 
-Tsukasa Fukunaga, and Wataru Iwasaki. "Postural change speed and proportion of inactive conditions can explain atypical postural change patterns of *Caenorhabditis elegans* mutants." under submission.
+Tsukasa Fukunaga, and Wataru Iwasaki. "Postural change speed and proportion of inactive conditions can explain atypical postural change patterns of *Caenorhabditis elegans* mutants." BMC Bioinformatics, 18, 46 (2017).
